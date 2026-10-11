@@ -108,6 +108,12 @@ SELECT TOP 10 *
 FROM dbo.Orders;
 ```
 
+## Project presentation
+
+The presentation summarizes the Tableau project, including the data warehouse, team analyses, and final business insights.
+
+[Open Presentation Tableau Project in Canva](https://canva.link/0kiatsmsr2g0wtb)
+
 ## Download and view a workbook
 
 Open the `workbooks/` folder on GitHub, select the workbook you want, and choose **Download raw file**. Open the downloaded `.twbx` file with Tableau Desktop or Tableau Public. The `.twbx` file is a packaged workbook; if its saved data connection is unavailable, connect it to the restored `DataWarehouse` database.
